@@ -439,8 +439,10 @@ SLIDER
   gap: 35px;
 }
 
+.ip,
+.ir,
 .ib,
-.pc {
+.ld {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -1009,8 +1011,10 @@ SLIDER
 
   }
 
+  .ip,
+  .ir,
   .ib,
-  .pc {
+  .ld {
     flex: 1;
     display: flex;
   }
